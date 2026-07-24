@@ -23,8 +23,10 @@ the private working tree.
 > credit card, any regulated payment processor's identity verification, a postal
 > money order — itself requires the government identification the Commonwealth
 > refuses, no lawful channel can presently receive donated funds. This holds
-> irrespective of how the fiscal-sponsorship re-application is decided at end of
-> June. **No donor is or will be charged; the channel remains not-live.** The
+> irrespective of how the fiscal-sponsorship question is resolved — and, as
+> recorded under "Channel" below, the re-application this notice anticipated
+> was subsequently found unperformable for the same reason and is retracted.
+> **No donor is or will be charged; the channel remains not-live.** The
 > open-source work continues on schedule regardless. This is folded into the
 > public copy at parity with the cross-filed federal-record affidavit; the drive's
 > bucket structure, amounts, and $1,800 floor are unchanged — what is presently
@@ -41,15 +43,15 @@ is the natural place to build the project in the open.
 
 The project today is **a single developer working with AI assistance,
 and is now opening this effort to contributors**. Start at
-[`qnarre-public`](https://github.com/quantapix/qnarre-public)
-(CONTRIBUTING + good-first-issues) and the
-[`qagents-public`](https://github.com/quantapix/qagents-public)
-Discussions.
+[`qnarre-public/CONTRIBUTING.md`](https://github.com/quantapix/qnarre-public/blob/main/CONTRIBUTING.md)
+and open an issue there to claim a unit — it links a curated starter set of
+nine verified tasks. (They are not yet filed as individual issues, and
+Discussions are not enabled; `CONTRIBUTING.md` says so.)
 
 This is Promise 2's natural front door, and it directly answers Open
-Source Collective's 2026-06-03 community-involvement note ahead of the
-end-of-June re-application — though the axiomatization is open to
-contributors on its own merits, drive or no drive.
+Source Collective's 2026-06-03 community-involvement note — though no
+re-application is pending (see "Channel"), and the axiomatization is open
+to contributors on its own merits, drive or no drive.
 
 ## What the drive funds
 
@@ -104,10 +106,12 @@ projects on the OpenCollective platform. The first fiscal-sponsorship
 application — submitted 2026-05-23 — was **declined on 2026-06-03** on
 community-involvement / early-stage grounds (not output maturity); OSC
 expressly invited a re-application as contributors get involved. The
-drive's response: hold the channel float, **open its U.S. Code
+drive's response: hold the channel float and **open its U.S. Code
 axiomatization to outside contributors** (see "Help axiomatize the U.S.
-Code" below), and **re-apply to Open Source Collective ~end of June
-2026**. OSC holds donor funds, processes receipts, and disburses
+Code" below). A re-application was announced for ~end of June 2026 and is
+**retracted** — the ID bar described under "Channel" forecloses the
+receiving instrument upstream of any OSC ruling, so no re-application is
+pending. OSC holds donor funds, processes receipts, and disburses
 against per-bucket expense submissions; the developer never has
 account-level access to gross inflow. 100% of net donor inflow flows
 to the four exclusive-use buckets; no salary, no stipend, no honorarium
@@ -189,11 +193,13 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   Posted to date: `ledger/2026-06.md` (first monthly; $0 inflow —
   channel not live in June, for the disclosed structural reasons).
 - **Weekly digest** — `weekly/YYYY-WW.md`. Posted Fridays end-of-day.
-  Lighter — no money figures — but cites the week's commits, deploys, Lean
-  theorems, and any public-record litigation milestones. Digests to date:
+  Lighter — no money figures — but cites the week's work product, deploys, Lean
+  theorems, and any public-record milestones. Digests to date:
   `weekly/2026-W23.md` (launch week), `weekly/2026-W24.md`,
   `weekly/2026-W25.md` (the 2026-06-16 financial-channel foreclosure),
-  `weekly/2026-W26.md`, and `weekly/2026-W27.md`.
+  `weekly/2026-W26.md`, `weekly/2026-W27.md`, `weekly/2026-W28.md` (the
+  redaction-floor breach and its remediation), `weekly/2026-W29.md` (the
+  corrected channel posture), and `weekly/2026-W30.md`.
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
@@ -212,13 +218,20 @@ the drive's single channel — an earlier plan to also run GitHub Sponsors
 was dropped at launch and is not a prerequisite. The first
 fiscal-sponsorship application (submitted 2026-05-23) was **declined on
 2026-06-03** on community-involvement grounds, with an express invitation
-to re-apply; the drive is holding the float, opening its U.S. Code
-axiomatization to outside contributors, and **re-applying ~end of June 2026**.
-As of 2026-06-16, however, the fiscal-sponsorship ruling is **no longer
-dispositive** of the channel going live: the Commonwealth's refusal of any
-government identification (see the development note above) leaves no lawful
-instrument through which approved funds could be received, so neither approval
-nor a second decline changes the present outcome. The exact go-live date is
+to re-apply; the drive is holding the float and opening its U.S. Code
+axiomatization to outside contributors.
+
+**Correction (2026-07-17): no re-application is pending, and none is
+promised.** This section previously said the drive would re-apply "~end of
+June 2026." It did not, and the reason is not scheduling: as of 2026-06-16
+the Commonwealth's refusal of any government identification (see the
+development note above) leaves no lawful instrument through which approved
+funds could be received, which forecloses the channel **upstream of any OSC
+ruling** — a re-application is not presently something the litigant can
+lawfully complete. So the fiscal-sponsorship ruling is no longer dispositive
+of the channel going live: neither approval nor a second decline changes the
+present outcome. A stated intention that turned out to be unperformable is
+retracted here rather than left to age quietly. The exact go-live date is
 disclosed in the weekly digest of the week funds begin; the drive's work began
 2026-06-01 and continues regardless.
 
@@ -262,7 +275,8 @@ record.
 
 ## Contact
 
-[`quantapix@gmail.com`](mailto:quantapix@gmail.com)
+[github.com/quantapix](https://github.com/quantapix) — open an issue on any repo
+in the org. Answered in public; there is no contact email.
 
 ## License
 
