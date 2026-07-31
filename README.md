@@ -123,7 +123,7 @@ the deliverable is open-source work product.
 | 1 | Claude Max 20× subscription | **$200.00** | qagents project; sole-developer use |
 | 2 | Midpage Legal MCP | **$100.00** | qagents project; not active at launch — activates when donations cover it |
 | 3 | AWS billing | variable | qagents AWS account; verification service + both Astro sites |
-| 4 | Federal docketing fees | variable | itemized per docket; the next petition is fee-paid (not IFP), deferred within its filing window until this bucket covers the fee |
+| 4 | Federal docketing fees | variable | itemized per docket in the monthly ledger |
 
 Fixed-bucket floor at $300/month × 6 months = **$1,800**. AWS and
 docketing fees layer on top; the live ledger reports actuals, not
@@ -199,7 +199,7 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   `weekly/2026-W25.md` (the 2026-06-16 financial-channel foreclosure),
   `weekly/2026-W26.md`, `weekly/2026-W27.md`, `weekly/2026-W28.md` (the
   redaction-floor breach and its remediation), `weekly/2026-W29.md` (the
-  corrected channel posture), and `weekly/2026-W30.md`.
+  corrected channel posture), `weekly/2026-W30.md`, and `weekly/2026-W31.md`.
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
@@ -272,6 +272,8 @@ This README is refreshed weekly from the private working tree's
 `drive.md`. Outline edits, bucket adjustments, and timeline shifts
 are committed as ordinary diffs — the commit log is the change
 record.
+
+Authored by a sole developer working with an AI assistant (Claude Code) under written CLAUDE.md contracts — methodology in [qagents-public](https://github.com/quantapix/qagents-public).
 
 ## Contact
 
