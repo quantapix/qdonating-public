@@ -191,7 +191,11 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   net to the collective); per-bucket outflow with receipts; carryover;
   one paragraph per deliverable promise with cited commits/deploys.
   Posted to date: `ledger/2026-06.md` (first monthly; $0 inflow —
-  channel not live in June, for the disclosed structural reasons).
+  channel not live in June, for the disclosed structural reasons) and
+  `ledger/2026-07.md` (second monthly; $0 inflow — channel still not
+  live; **posted 2026-08-07 against a 2026-08-05 target, two days late
+  — the drive's first cadence miss, disclosed in that ledger and in
+  `weekly/2026-W32.md`**).
 - **Weekly digest** — `weekly/YYYY-WW.md`. Posted Fridays end-of-day.
   Lighter — no money figures — but cites the week's work product, deploys, Lean
   theorems, and any public-record milestones. Digests to date:
@@ -199,7 +203,9 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   `weekly/2026-W25.md` (the 2026-06-16 financial-channel foreclosure),
   `weekly/2026-W26.md`, `weekly/2026-W27.md`, `weekly/2026-W28.md` (the
   redaction-floor breach and its remediation), `weekly/2026-W29.md` (the
-  corrected channel posture), `weekly/2026-W30.md`, and `weekly/2026-W31.md`.
+  corrected channel posture), `weekly/2026-W30.md`, `weekly/2026-W31.md`, and
+  `weekly/2026-W32.md` (the July ledger's cadence miss and two live-page
+  defects).
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
