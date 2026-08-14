@@ -5,8 +5,8 @@
 
 A weekly-refreshed window into the donation drive that runs alongside
 the private working repository. The source of truth is the
-machine-readable drive description at `data/donating/drive.json` (in
-the private repo); this README is the public-facing rendering of the
+machine-readable drive description held in the private repo; this
+README is the public-facing rendering of the
 same content. Both surfaces share a single edit point: `drive.md` in
 the private working tree.
 
@@ -66,9 +66,9 @@ non-engineering time.
    authorship, and the redacted Claude Code session memory.
    Refreshed weekly during the drive window (Fridays end-of-day).
 2. **Axiomatize federal + Massachusetts code.** Lean4 theorems under
-   `proving/Proving/<Framework>/` covering the U.S. Code sections in
+   a per-framework namespace covering the U.S. Code sections in
    scope, each carrying a one-line statutory citation that resolves
-   against the canonical USC text vendored at `legal/uscode/`. A
+   against the canonical USC text vendored in the private repo. A
    started Massachusetts General Laws set lands during the window.
 3. **Host a verification service.** Live HTTPS endpoints at
    `qnarre.quantapix.com` (legal-complaint verifier) and
@@ -203,9 +203,10 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   `weekly/2026-W25.md` (the 2026-06-16 financial-channel foreclosure),
   `weekly/2026-W26.md`, `weekly/2026-W27.md`, `weekly/2026-W28.md` (the
   redaction-floor breach and its remediation), `weekly/2026-W29.md` (the
-  corrected channel posture), `weekly/2026-W30.md`, `weekly/2026-W31.md`, and
+  corrected channel posture), `weekly/2026-W30.md`, `weekly/2026-W31.md`,
   `weekly/2026-W32.md` (the July ledger's cadence miss and two live-page
-  defects).
+  defects), and `weekly/2026-W33.md` (Bucket 1's funded subscription canceled
+  2026-08-13, access ending 2026-09-12).
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
