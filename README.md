@@ -32,11 +32,44 @@ the private working tree.
 > bucket structure, amounts, and $1,800 floor are unchanged — what is presently
 > impossible is *receipt*, not the drive's definition.
 
+> **Development (2026-08-13) — Bucket 1 capacity, with a date on it.** The
+> Claude Max 20× subscription that Bucket 1 is defined to fund was canceled on
+> **2026-08-13**; the confirmation states that access **expires 2026-09-12** and
+> that re-subscription is available at any time. No re-subscription has
+> occurred. The confirmation is an ordinary self-service cancellation notice and
+> **states no cause, so no cause is asserted here.** The fact was placed on the
+> record the same day, in correspondence to the full service list in the
+> underlying litigation, including the Commonwealth's Attorney General's Office
+> and the U.S. Department of Justice Civil Rights Division.
+> **Nothing in the bucket structure changes, and nothing in it is edited by this
+> note.** No bucket amount, definition, or exclusive use moves. Bucket 1 is a
+> definition of how donated funds would be spent, not a representation that a
+> subscription is active; the finding that Max 20× is the floor for the promised
+> work is a claim about what the work *requires*, which losing access does not
+> lower; and the drive told the record from the outset that the subscription was
+> carried by **short-term bridge funding outside the drive**, with donor funding
+> to take over "from its **first funded renewal**." Inflow has been **$0.00
+> every month**, so there has never *been* a first funded renewal: **no donated
+> dollar has ever been received, held, or disbursed under Bucket 1**, and no
+> refund, custody, or cross-bucket question arises. The no-financial-beneficiary
+> structure is untouched.
+> What *has* changed is **capacity, with a date on it** — stated rather than
+> softened. The cadence commitments are not relaxed in advance; if capacity
+> after 2026-09-12 cannot sustain them, the drive's own wind-down mechanism
+> (same-day disclosure of what broke) is the answer. One sequencing fact,
+> recorded because it will matter later: the status report filed in the pending
+> federal appeal on 2026-08-13 was e-filed **thirty-nine minutes before** the
+> cancellation confirmation, so this event is not inside that filed instrument.
+> Drift verdict **NO DRIFT**, no supplemental affidavit owed on donation-drive
+> grounds — the drive's drift-check log, the 2026-08-14 entry. Added 2026-08-21
+> as an additive dated note under the operator ruling of 2026-08-18; disclosed
+> in the weekly digest of 2026-08-14.
+
 ## Help axiomatize the U.S. Code, in the age of AI
 
 The framework builds Lean4 theorems — backed by LLM-evaluated predicates
-— over the United States Code (full corpus mirrored; ~65,700 sections
-across all 54 titles). Pick up a section, a predicate, or a title. This
+— over the United States Code (full corpus mirrored, all 53 titles —
+appendix volumes excluded). Pick up a section, a predicate, or a title. This
 works over **public federal statutes only** — no private case material
 is ever involved, so collaboration carries no privacy-floor surface; it
 is the natural place to build the project in the open.
@@ -44,9 +77,12 @@ is the natural place to build the project in the open.
 The project today is **a single developer working with AI assistance,
 and is now opening this effort to contributors**. Start at
 [`qnarre-public/CONTRIBUTING.md`](https://github.com/quantapix/qnarre-public/blob/main/CONTRIBUTING.md)
-and open an issue there to claim a unit — it links a curated starter set of
-nine verified tasks. (They are not yet filed as individual issues, and
-Discussions are not enabled; `CONTRIBUTING.md` says so.)
+and open an issue there to claim a unit — it links a curated starter roster:
+**five open, of an original nine**, each re-derived against the tree with its
+own acceptance criteria. The four that were swept internally keep their
+numbers and are marked closed in place, so a returning reader can see what
+happened rather than finding tasks silently missing. (They are not yet filed
+as individual issues; `CONTRIBUTING.md` says so.)
 
 This is Promise 2's natural front door, and it directly answers Open
 Source Collective's 2026-06-03 community-involvement note — though no
@@ -70,9 +106,11 @@ non-engineering time.
    scope, each carrying a one-line statutory citation that resolves
    against the canonical USC text vendored in the private repo. A
    started Massachusetts General Laws set lands during the window.
-3. **Host a verification service.** Live HTTPS endpoints at
+3. **Host a verification service.** HTTPS endpoints at
    `qnarre.quantapix.com` (legal-complaint verifier) and
-   `qresev.quantapix.com` (portfolio evaluator). Both accept a
+   `qresev.quantapix.com` (portfolio evaluator) — **neither is publicly
+   live yet; this is the drive's unshipped promise, and the weekly
+   digests say so every week.** Both accept a
    **redacted** input and stream verification events back over
    Server-Sent Events. Redaction is enforced at the boundary — no
    real names, dockets, addresses, financial account numbers, or
@@ -135,20 +173,24 @@ disclosed. Cross-bucket movement is not allowed.
 was tried during the pre-drive bridge period and could not sustain the
 token-heavy design and video-production work. The $200/month Max 20×
 subscription line resolves into three audited LLM-call lanes:
-**Tier A** — interactive Claude Code + Cowork (operator dev sessions);
-**Tier B** — programmatic Claude Agent SDK credit pool ($200/month
-included in the Max20 subscription at no separate charge, starting
-2026-06-15) that funds cron-fired routines and the verification
-service's admin-gated freeform-POST predicate path; **Tier C** —
+**Tier A** — interactive Claude Code + Cowork (operator dev sessions),
+which is where essentially all of the work reported in the weekly
+digests runs; **Tier B** — a programmatic (non-interactive) lane for
+cron-fired routines and the verification service's admin-gated
+predicate path. **Tier B is parked and has been since 2026-06-15**:
+the separately-credited programmatic pool this drive's copy originally
+described was withdrawn on that date, and every routine now runs
+through the ordinary interactive lane instead. It is disclosed here
+rather than left in the copy as a funded line, because a funding page
+should not describe a lane that does not exist; **Tier C** —
 optional API-rate overage, default off (a cap breach is a visible
 refusal in the next morning's daily watcher finding, not a silent
 over-spend; if ever enabled, Tier C overage stays inside Bucket 1's
 exclusive use as additional AI-assistant spend and is itemized
 separately from the $200/month subscription in the monthly ledger so
-the subscription figure stays legible). The daily watcher enforces an
-85% projected-total cap inside Tier B. Bucket 1 is therefore one
-subscription line donors fund and three audited LLM-call lanes
-underneath it.
+the subscription figure stays legible). Bucket 1 is therefore one
+subscription line donors fund, with three LLM-call lanes underneath
+it, one of which is presently parked.
 
 ## Suggested recurring tiers
 
@@ -205,8 +247,10 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   redaction-floor breach and its remediation), `weekly/2026-W29.md` (the
   corrected channel posture), `weekly/2026-W30.md`, `weekly/2026-W31.md`,
   `weekly/2026-W32.md` (the July ledger's cadence miss and two live-page
-  defects), and `weekly/2026-W33.md` (Bucket 1's funded subscription canceled
-  2026-08-13, access ending 2026-09-12).
+  defects), `weekly/2026-W33.md` (Bucket 1's funded subscription canceled
+  2026-08-13, access ending 2026-09-12), and `weekly/2026-W34.md` (both
+  `/donate` defects closed and verified live; the drive contract's dated
+  capacity note).
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
@@ -269,7 +313,7 @@ verified during application and disclosed in the first monthly ledger.
 |---|---|
 | [`qagents-public`](https://github.com/quantapix/qagents-public) | Umbrella; redacted CLAUDE.md graph that governs AI-assisted authorship across the framework. |
 | [`qnarre-public`](https://github.com/quantapix/qnarre-public) | Lean4 axiom set for civil RICO + §§ 1981/1983/1985(3) + Title VI, with predicate stubs and a thin driver. Backs the **Qnarre** product. |
-| [`qresev-public`](https://github.com/quantapix/qresev-public) | Lean4 axiom set for the five financial-strategy frameworks (TREND / MOMENTUM / OPTIONS-RISK / SECTOR / DRAWDOWN). |
+| [`qresev-public`](https://github.com/quantapix/qresev-public) | Lean4 axiom set for the financial-strategy frameworks — trend, momentum, options-risk, sector, drawdown and the later additions — each decomposed rather than left as a single opaque predicate. Backs the **Qresev** product. |
 | [`qstudying-public`](https://github.com/quantapix/qstudying-public) | Lean4 expert-track focus areas + OSS contribution targets that back the proving + accounting kernels. |
 | [`qexplaining-public`](https://github.com/quantapix/qexplaining-public) | 50-video AI-narrated explainer arc. |
 
