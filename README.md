@@ -248,9 +248,10 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   corrected channel posture), `weekly/2026-W30.md`, `weekly/2026-W31.md`,
   `weekly/2026-W32.md` (the July ledger's cadence miss and two live-page
   defects), `weekly/2026-W33.md` (Bucket 1's funded subscription canceled
-  2026-08-13, access ending 2026-09-12), and `weekly/2026-W34.md` (both
+  2026-08-13, access ending 2026-09-12), `weekly/2026-W34.md` (both
   `/donate` defects closed and verified live; the drive contract's dated
-  capacity note).
+  capacity note), and `weekly/2026-W35.md` (a lane described as funded in
+  the drive's own authoritative copy since 2026-06-15, corrected at source).
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
