@@ -3,7 +3,7 @@
 > Six-month public donation drive backing the qagents framework.
 > **Window: 2026-06-01 → 2026-12-01.**
 
-A weekly-refreshed window into the donation drive that runs alongside
+A regularly refreshed window into the donation drive that runs alongside
 the private working repository. The source of truth is the
 machine-readable drive description held in the private repo; this
 README is the public-facing rendering of the
@@ -100,7 +100,7 @@ non-engineering time.
    organisation carry redacted slices of the private working tree:
    source code, the `CLAUDE.md` conventions that govern AI-assisted
    authorship, and the redacted Claude Code session memory.
-   Refreshed weekly during the drive window (Fridays end-of-day).
+   Refreshed per release run during the drive window.
 2. **Axiomatize federal + Massachusetts code.** Lean4 theorems under
    a per-framework namespace covering the U.S. Code sections in
    scope, each carrying a one-line statutory citation that resolves
@@ -320,7 +320,7 @@ verified during application and disclosed in the first monthly ledger.
 
 ## Cadence note
 
-This README is refreshed weekly from the private working tree's
+This README is refreshed per release run from the private working tree's
 `drive.md`. Outline edits, bucket adjustments, and timeline shifts
 are committed as ordinary diffs — the commit log is the change
 record.
