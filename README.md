@@ -65,6 +65,31 @@ the private working tree.
 > as an additive dated note under the operator ruling of 2026-08-18; disclosed
 > in the weekly digest of 2026-08-14.
 
+> **Development (2026-09-11) — the 2026-09-12 access date has moved.** The
+> access expiry recited in the 2026-08-13 note above — 2026-09-12 — is **no
+> longer the operative date**: on **2026-09-10** access to that subscription
+> was **extended by approximately one month**. The record of the extension is
+> an internal session record of that date; an exact replacement end date is
+> not yet fixed in any record cited here, and the monthly ledger will name it
+> once one is. **No cause is asserted**, exactly as none was asserted for the
+> cancellation. **Nothing in the bucket structure changes, and nothing in it is
+> edited by this note** — no bucket amount, definition, or exclusive use moves;
+> inflow remains **$0.00** in every month of the drive, so the "first funded
+> renewal" Bucket 1 is conditioned on has still never occurred and **no donated
+> dollar has ever been received, held, or disbursed under Bucket 1**. No refund,
+> custody, or cross-bucket question arises from either the cancellation or the
+> extension, and the no-financial-beneficiary structure is untouched.
+> What the dated notes track is **capacity, not commitment**: the cadence
+> commitments were not relaxed when the date was near, and they are not
+> relaxed now that it has moved. This is recorded because earlier weekly
+> digests published the 2026-09-12 date — a public accountability record that
+> is superseded and left standing is a worse defect than the uncertainty it
+> replaced. Drift verdict **NO DRIFT**, no supplemental affidavit owed on
+> donation-drive grounds: no filed instrument recites the expiry date. See the
+> drive's drift-check log, the 2026-09-11 entry. Recorded 2026-09-11 and
+> carried to this public copy on 2026-09-18, as an additive dated note under
+> the operator ruling of 2026-08-18.
+
 ## Help axiomatize the U.S. Code, in the age of AI
 
 The framework builds Lean4 theorems — backed by LLM-evaluated predicates
