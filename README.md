@@ -262,7 +262,10 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   `ledger/2026-07.md` (second monthly; $0 inflow — channel still not
   live; **posted 2026-08-07 against a 2026-08-05 target, two days late
   — the drive's first cadence miss, disclosed in that ledger and in
-  `weekly/2026-W32.md`**).
+  `weekly/2026-W32.md`**), and `ledger/2026-08.md` (third monthly; $0
+  inflow — channel still not live; **posted 2026-09-09 against a 2026-09-05
+  target, four days late — a missed monthly ledger, disclosed in that ledger
+  as a self-declared breach**).
 - **Weekly digest** — `weekly/YYYY-WW.md`. Posted Fridays end-of-day.
   Lighter — no money figures — but cites the week's work product, deploys, Lean
   theorems, and any public-record milestones. Digests to date:
@@ -275,8 +278,13 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   defects), `weekly/2026-W33.md` (Bucket 1's funded subscription canceled
   2026-08-13, access ending 2026-09-12), `weekly/2026-W34.md` (both
   `/donate` defects closed and verified live; the drive contract's dated
-  capacity note), and `weekly/2026-W35.md` (a lane described as funded in
-  the drive's own authoritative copy since 2026-06-15, corrected at source).
+  capacity note), `weekly/2026-W35.md` (a lane described as funded in
+  the drive's own authoritative copy since 2026-06-15, corrected at source),
+  `weekly/2026-W36.md` (the drive's first missed weekly, posted late on
+  2026-09-09), `weekly/2026-W38.md` (a six-week false "unanswered"
+  statement, corrected across every carrier), and `weekly/2026-W39.md`
+  (posted a day late; why three digests were held from this repo and what
+  was corrected before they shipped). `weekly/2026-W37.md` is still held.
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
