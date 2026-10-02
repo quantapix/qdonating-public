@@ -262,10 +262,12 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   `ledger/2026-07.md` (second monthly; $0 inflow — channel still not
   live; **posted 2026-08-07 against a 2026-08-05 target, two days late
   — the drive's first cadence miss, disclosed in that ledger and in
-  `weekly/2026-W32.md`**), and `ledger/2026-08.md` (third monthly; $0
+  `weekly/2026-W32.md`**), `ledger/2026-08.md` (third monthly; $0
   inflow — channel still not live; **posted 2026-09-09 against a 2026-09-05
   target, four days late — a missed monthly ledger, disclosed in that ledger
-  as a self-declared breach**).
+  as a self-declared breach**), and `ledger/2026-09.md` (fourth monthly; $0
+  inflow — channel still not live; **posted 2026-10-02 against a 2026-10-05
+  target, inside its window**).
 - **Weekly digest** — `weekly/YYYY-WW.md`. Posted Fridays end-of-day.
   Lighter — no money figures — but cites the week's work product, deploys, Lean
   theorems, and any public-record milestones. Digests to date:
@@ -281,10 +283,14 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   capacity note), `weekly/2026-W35.md` (a lane described as funded in
   the drive's own authoritative copy since 2026-06-15, corrected at source),
   `weekly/2026-W36.md` (the drive's first missed weekly, posted late on
-  2026-09-09), `weekly/2026-W38.md` (a six-week false "unanswered"
-  statement, corrected across every carrier), and `weekly/2026-W39.md`
-  (posted a day late; why three digests were held from this repo and what
-  was corrected before they shipped). `weekly/2026-W37.md` is still held.
+  2026-09-09), `weekly/2026-W37.md` (drafted early and re-checked before
+  posting; held from this repo twice and corrected at source before it
+  shipped, each correction carried as a dated note), `weekly/2026-W38.md`
+  (a six-week false "unanswered" statement, corrected across every
+  carrier), `weekly/2026-W39.md` (posted a day late; why three digests were
+  held from this repo and what was corrected before they shipped), and
+  `weekly/2026-W40.md` (the September ledger inside its window; the federal
+  appeal now cited by its number).
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
@@ -346,8 +352,8 @@ verified during application and disclosed in the first monthly ledger.
 | Repo | Role |
 |---|---|
 | [`qagents-public`](https://github.com/quantapix/qagents-public) | Umbrella; redacted CLAUDE.md graph that governs AI-assisted authorship across the framework. |
-| [`qnarre-public`](https://github.com/quantapix/qnarre-public) | Lean4 axiom set for civil RICO + §§ 1981/1983/1985(3) + Title VI, with predicate stubs and a thin driver. Backs the **Qnarre** product. |
-| [`qresev-public`](https://github.com/quantapix/qresev-public) | Lean4 axiom set for the financial-strategy frameworks — trend, momentum, options-risk, sector, drawdown and the later additions — each decomposed rather than left as a single opaque predicate. Backs the **Qresev** product. |
+| [`qnarre-public`](https://github.com/quantapix/qnarre-public) | Public window onto the Lean4 axiomatization of civil RICO + §§ 1981/1983/1985(3) + Title VI: method, status and a contributor roster. The Lean sources are not published there yet. Backs the **Qnarre** product. |
+| [`qresev-public`](https://github.com/quantapix/qresev-public) | Public window onto the Lean4 axiomatization of the financial-strategy frameworks — trend, momentum, options-risk, sector, drawdown and the later additions — each decomposed rather than left as a single opaque predicate. The Lean sources are not published there yet. Backs the **Qresev** product. |
 | [`qstudying-public`](https://github.com/quantapix/qstudying-public) | Lean4 expert-track focus areas + OSS contribution targets that back the proving + accounting kernels. |
 | [`qexplaining-public`](https://github.com/quantapix/qexplaining-public) | 50-video AI-narrated explainer arc. |
 
