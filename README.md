@@ -90,6 +90,23 @@ the private working tree.
 > carried to this public copy on 2026-09-18, as an additive dated note under
 > the operator ruling of 2026-08-18.
 
+> **Development (2026-10-11) — the subscription was not renewed.** The
+> extension of approximately one month recorded in the 2026-09-11 note above
+> **ran out without renewal**, and access under that subscription has ended.
+> No record cited here fixes the end date, so none is given; **no cause is
+> asserted**, as none was for the cancellation or the extension. Work
+> continues; no donated funds are involved. **Nothing in § 5
+> changes and nothing in § 5 is edited by this note** — inflow remains
+> **$0.00** in every month of the drive, so the "first funded renewal" § 5
+> conditions Bucket 1 on has still never occurred and **no donated dollar has
+> ever been received, held, or disbursed under Bucket 1**; the § 4/§ 5
+> no-financial-beneficiary triplet is untouched. The § 8 cadence commitments
+> are not relaxed in advance; if capacity cannot sustain them, § 8's own
+> wind-down mechanism (same-day disclosure of what broke) is the answer.
+> Drift-check: the drive's drift-check log, the 2026-10-11 entry. Added 2026-10-11 as an
+> additive dated note under the operator ruling of 2026-08-18; disclosed in
+> the weekly digest W41.
+
 ## Help axiomatize the U.S. Code, in the age of AI
 
 The framework builds Lean4 theorems — backed by LLM-evaluated predicates
@@ -288,9 +305,10 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   shipped, each correction carried as a dated note), `weekly/2026-W38.md`
   (a six-week false "unanswered" statement, corrected across every
   carrier), `weekly/2026-W39.md` (posted a day late; why three digests were
-  held from this repo and what was corrected before they shipped), and
+  held from this repo and what was corrected before they shipped),
   `weekly/2026-W40.md` (the September ledger inside its window; the federal
-  appeal now cited by its number).
+  appeal now cited by its number), and `weekly/2026-W41.md` (posted two days
+  late, on 2026-10-11; the Bucket 1 subscription not renewed).
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
