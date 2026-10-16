@@ -307,8 +307,10 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   carrier), `weekly/2026-W39.md` (posted a day late; why three digests were
   held from this repo and what was corrected before they shipped),
   `weekly/2026-W40.md` (the September ledger inside its window; the federal
-  appeal now cited by its number), and `weekly/2026-W41.md` (posted two days
-  late, on 2026-10-11; the Bucket 1 subscription not renewed).
+  appeal now cited by its number), `weekly/2026-W41.md` (posted two days
+  late, on 2026-10-11; the Bucket 1 subscription not renewed), and
+  `weekly/2026-W42.md` (on time; three synthetic worked examples, each with
+  its attacks counted apart from its proofs).
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
