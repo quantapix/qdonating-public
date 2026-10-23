@@ -308,9 +308,11 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   held from this repo and what was corrected before they shipped),
   `weekly/2026-W40.md` (the September ledger inside its window; the federal
   appeal now cited by its number), `weekly/2026-W41.md` (posted two days
-  late, on 2026-10-11; the Bucket 1 subscription not renewed), and
+  late, on 2026-10-11; the Bucket 1 subscription not renewed),
   `weekly/2026-W42.md` (on time; three synthetic worked examples, each with
-  its attacks counted apart from its proofs).
+  its attacks counted apart from its proofs), and `weekly/2026-W43.md` (on
+  time; two attack rounds that defeated no proof, and what their concessions
+  showed).
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
@@ -354,13 +356,7 @@ verified during application and disclosed in the first monthly ledger.
 
 - Legal fees or attorney retainers **during the drive**. The litigation
   backing this work remains pro se throughout the six-month window, and
-  the drive does not fund representation out of the four buckets. One
-  narrow, contingent exception is disclosed on the public record: a
-  possible **post-drive** class-action-counsel engagement, funded from
-  any over-floor inflow *outside* the four buckets and disclosed in
-  advance in the monthly ledger — entertained only after the window has
-  completed and only if inflow demonstrably exceeds the $1,800
-  fixed-bucket floor. It is still being formed; no counsel is identified.
+  the drive does not fund representation out of the four buckets.
 - Housing or personal subsistence. The four buckets above are the
   entire ask.
 - One-time hardware purchases.
