@@ -310,9 +310,11 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   appeal now cited by its number), `weekly/2026-W41.md` (posted two days
   late, on 2026-10-11; the Bucket 1 subscription not renewed),
   `weekly/2026-W42.md` (on time; three synthetic worked examples, each with
-  its attacks counted apart from its proofs), and `weekly/2026-W43.md` (on
+  its attacks counted apart from its proofs), `weekly/2026-W43.md` (on
   time; two attack rounds that defeated no proof, and what their concessions
-  showed).
+  showed), and `weekly/2026-W44.md` (on time; 45 theorem lines removed from
+  the operational axis, and why most were restatements rather than failed
+  proofs).
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
