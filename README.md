@@ -282,9 +282,13 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   `weekly/2026-W32.md`**), `ledger/2026-08.md` (third monthly; $0
   inflow — channel still not live; **posted 2026-09-09 against a 2026-09-05
   target, four days late — a missed monthly ledger, disclosed in that ledger
-  as a self-declared breach**), and `ledger/2026-09.md` (fourth monthly; $0
+  as a self-declared breach**), `ledger/2026-09.md` (fourth monthly; $0
   inflow — channel still not live; **posted 2026-10-02 against a 2026-10-05
-  target, inside its window**).
+  target, inside its window**), and `ledger/2026-10.md` (fifth monthly; $0
+  inflow — channel still not live; **posted 2026-11-13 against a 2026-11-05
+  target, eight days late — a missed monthly ledger that trips the drive's
+  wind-down clause, disclosed in that ledger and in `weekly/2026-W46.md`;
+  recovery keeps the cadence unchanged**).
 - **Weekly digest** — `weekly/YYYY-WW.md`. Posted Fridays end-of-day.
   Lighter — no money figures — but cites the week's work product, deploys, Lean
   theorems, and any public-record milestones. Digests to date:
@@ -312,9 +316,11 @@ terms, falsified. No implicit credit, no benefit of the doubt.
   `weekly/2026-W42.md` (on time; three synthetic worked examples, each with
   its attacks counted apart from its proofs), `weekly/2026-W43.md` (on
   time; two attack rounds that defeated no proof, and what their concessions
-  showed), and `weekly/2026-W44.md` (on time; 45 theorem lines removed from
+  showed), `weekly/2026-W44.md` (on time; 45 theorem lines removed from
   the operational axis, and why most were restatements rather than failed
-  proofs).
+  proofs), and `weekly/2026-W46.md` (on time, covering two weeks: the W45
+  digest was missed and there is no `weekly/2026-W45.md`; the wind-down
+  disclosure, and a correction to W44 that leaves W44 as posted).
 - **Two cycles of silence is a finding.** Two consecutive missed
   weekly digests or any missed monthly ledger breaks the
   trivially-auditable contract by its own terms. Recovery requires a
