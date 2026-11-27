@@ -376,7 +376,7 @@ verified during application and disclosed in the first monthly ledger.
 | Repo | Role |
 |---|---|
 | [`qagents-public`](https://github.com/quantapix/qagents-public) | Umbrella; redacted CLAUDE.md graph that governs AI-assisted authorship across the framework. |
-| [`qnarre-public`](https://github.com/quantapix/qnarre-public) | Public window onto the Lean4 axiomatization of civil RICO + §§ 1981/1983/1985(3) + Title VI: method, status and a contributor roster. The Lean sources are not published there yet. Backs the **Qnarre** product. |
+| [`qnarre-public`](https://github.com/quantapix/qnarre-public) | Public window onto the Lean4 axiomatization of civil RICO + §§ 1981/1983/1985(3) + Title VI: method, status and a contributor roster. Backs the **Qnarre** product. |
 | [`qresev-public`](https://github.com/quantapix/qresev-public) | Public window onto the Lean4 axiomatization of the financial-strategy frameworks — trend, momentum, options-risk, sector, drawdown and the later additions — each decomposed rather than left as a single opaque predicate. The Lean sources are not published there yet. Backs the **Qresev** product. |
 | [`qstudying-public`](https://github.com/quantapix/qstudying-public) | Lean4 expert-track focus areas + OSS contribution targets that back the proving + accounting kernels. |
 | [`qexplaining-public`](https://github.com/quantapix/qexplaining-public) | 50-video AI-narrated explainer arc. |
